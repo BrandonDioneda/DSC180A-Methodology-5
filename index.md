@@ -1,6 +1,6 @@
 Brandon Dioneda (bdioneda@ucsd.edu)
 
-B02 Brian Duke, Kyle Nero, and Berk Ustun
+NLP Credit Score Development (B02) Brian Duke, Kyle Nero, and Berk Ustun
 
 1. What is the most interesting topic covered in your domain this quarter?
 **The topic I'm looking forward to this quarter and find fascinating is being able to measure a person's income based on bank transactions. As for topics/methods I've actually done at this point, was using an LLM to perform multi-class classification after being pretrained on a large corpus.**
